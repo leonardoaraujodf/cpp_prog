@@ -1,4 +1,4 @@
-// waiting.cpp -- using clock() in a time-delay loop
+// listing 5.14 - waiting.cpp -- using clock() in a time-delay loop
 #include <iostream>
 #include <ctime> // describes clock() function, clock_t type
 int main()
